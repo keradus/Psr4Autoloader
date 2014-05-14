@@ -9,3 +9,4 @@ Changes to original:
 - change namespace: Example->Keradus
 - create new instances always with brackets
 - little documentation changes
+- all variables now in camelCase
