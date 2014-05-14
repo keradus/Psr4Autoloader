@@ -11,3 +11,4 @@ Changes to original:
 - little documentation changes
 - all variables now in camelCase
 - add empty lines before return statements to fulfill php-cs-fixer guidelines
+- code cleanup for few useless statements
