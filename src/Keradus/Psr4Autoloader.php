@@ -24,7 +24,7 @@ namespace Keradus;
  *
  *      <?php
  *      // instantiate the loader
- *      $loader = new \Keradus\Psr4Autoloader;
+ *      $loader = new \Keradus\Psr4Autoloader();
  *
  *      // register the autoloader
  *      $loader->register();
@@ -37,13 +37,13 @@ namespace Keradus;
  * \Foo\Bar\Qux\Quux class from /path/to/packages/foo-bar/src/Qux/Quux.php:
  *
  *      <?php
- *      new \Foo\Bar\Qux\Quux;
+ *      new \Foo\Bar\Qux\Quux();
  *
  * The following line would cause the autoloader to attempt to load the
  * \Foo\Bar\Qux\QuuxTest class from /path/to/packages/foo-bar/tests/Qux/QuuxTest.php:
  *
  *      <?php
- *      new \Foo\Bar\Qux\QuuxTest;
+ *      new \Foo\Bar\Qux\QuuxTest();
  */
 class Psr4Autoloader
 {

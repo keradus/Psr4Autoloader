@@ -7,3 +7,4 @@ Changes to original:
 - fixes tests
 - remove "Class" suffix in class names
 - change namespace: Example->Keradus
+- create new instances always with brackets

@@ -22,7 +22,7 @@ class Psr4AutoloaderTest extends \PHPUnit_Framework_TestCase
 
     protected function setUp()
     {
-        $this->loader = new MockPsr4Autoloader;
+        $this->loader = new MockPsr4Autoloader();
 
         $this->loader->setFiles(array(
             '/vendor/foo.bar/src/ClassName.php',
