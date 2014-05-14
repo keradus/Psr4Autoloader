@@ -2,9 +2,8 @@
 namespace Keradus;
 
 /**
- * An example of a general-purpose implementation that includes the optional
- * functionality of allowing multiple base directories for a single namespace
- * prefix.
+ * A general-purpose implementation that includes the optional functionality
+ * of allowing multiple base directories for a single namespace prefix.
  *
  * Given a foo-bar package of classes in the file system at the following
  * paths ...
