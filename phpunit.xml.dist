@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <phpunit backupGlobals="false" colors="true" bootstrap="./test/bootstrap.php">
-	<testsuite name="Example">
+	<testsuite name="Keradus">
 		<directory suffix="Test.php">./test</directory>
 	</testsuite>
 
 	<filter>
 		<whitelist>
-			<directory suffix=".php">./src/Example</directory>
+			<directory suffix=".php">./src/Keradus</directory>
 		</whitelist>
 	</filter>
 </phpunit>

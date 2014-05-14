@@ -1,5 +1,5 @@
 <?php
-namespace Example;
+namespace Keradus;
 
 /**
  * An example of a general-purpose implementation that includes the optional
@@ -24,7 +24,7 @@ namespace Example;
  *
  *      <?php
  *      // instantiate the loader
- *      $loader = new \Example\Psr4Autoloader;
+ *      $loader = new \Keradus\Psr4Autoloader;
  *
  *      // register the autoloader
  *      $loader->register();

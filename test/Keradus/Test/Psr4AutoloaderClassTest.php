@@ -1,7 +1,7 @@
 <?php
-namespace Example\Tests;
+namespace Keradus\Tests;
 
-class MockPsr4Autoloader extends \Example\Psr4Autoloader
+class MockPsr4Autoloader extends \Keradus\Psr4Autoloader
 {
     protected $files = array();
 
