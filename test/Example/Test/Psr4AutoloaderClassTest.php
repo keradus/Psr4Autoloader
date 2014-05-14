@@ -1,7 +1,7 @@
 <?php
 namespace Example\Tests;
 
-class MockPsr4AutoloaderClass extends Psr4AutoloaderClass
+class MockPsr4AutoloaderClass extends \Example\Psr4AutoloaderClass
 {
     protected $files = array();
 
