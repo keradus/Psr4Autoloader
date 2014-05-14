@@ -10,3 +10,4 @@ Changes to original:
 - create new instances always with brackets
 - little documentation changes
 - all variables now in camelCase
+- add empty lines before return statements to fulfill php-cs-fixer guidelines
