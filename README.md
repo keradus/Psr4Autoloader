@@ -5,3 +5,4 @@ PSR-4 Autoloader implementation based on https://github.com/php-fig/fig-standard
 
 Changes to original:
 - fixes tests
+- remove "Class" suffix in class names

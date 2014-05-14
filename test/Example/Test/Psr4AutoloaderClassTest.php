@@ -1,7 +1,7 @@
 <?php
 namespace Example\Tests;
 
-class MockPsr4AutoloaderClass extends \Example\Psr4AutoloaderClass
+class MockPsr4Autoloader extends \Example\Psr4Autoloader
 {
     protected $files = array();
 
@@ -16,13 +16,13 @@ class MockPsr4AutoloaderClass extends \Example\Psr4AutoloaderClass
     }
 }
 
-class Psr4AutoloaderClassTest extends \PHPUnit_Framework_TestCase
+class Psr4AutoloaderTest extends \PHPUnit_Framework_TestCase
 {
     protected $loader;
 
     protected function setUp()
     {
-        $this->loader = new MockPsr4AutoloaderClass;
+        $this->loader = new MockPsr4Autoloader;
 
         $this->loader->setFiles(array(
             '/vendor/foo.bar/src/ClassName.php',

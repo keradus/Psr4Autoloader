@@ -24,7 +24,7 @@ namespace Example;
  * 
  *      <?php
  *      // instantiate the loader
- *      $loader = new \Example\Psr4AutoloaderClass;
+ *      $loader = new \Example\Psr4Autoloader;
  *      
  *      // register the autoloader
  *      $loader->register();
@@ -45,7 +45,7 @@ namespace Example;
  *      <?php
  *      new \Foo\Bar\Qux\QuuxTest;
  */
-class Psr4AutoloaderClass
+class Psr4Autoloader
 {
     /**
      * An associative array where the key is a namespace prefix and the value
