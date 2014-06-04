@@ -1,0 +1,12 @@
+{
+    "name": "keradus/psr4autoloader",
+    "description": "PSR-4 Autoloader implementation",
+    "license": "MIT",
+    "type": "library",
+    "homepage": "https://github.com/keradus/Psr4Autoloader",
+    "autoload": {
+        "psr-4": {
+            "Keradus\\": "src/"
+        }
+    }
+}
