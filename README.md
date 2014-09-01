@@ -1,6 +1,7 @@
 Psr4Autoloader
 ==============
-[![Build Status](https://travis-ci.org/keradus/Psr4Autoloader.svg?branch=master)](https://travis-ci.org/keradus/Psr4Autoloader)
+[![Package version](http://img.shields.io/packagist/v/keradus/Psr4Autoloader.svg)](https://packagist.org/packages/keradus/Psr4Autoloader)
+[![Build status](http://img.shields.io/travis/keradus/Psr4Autoloader/master.svg)](http://travis-ci.org/keradus/Psr4Autoloader)
 
 PSR-4 Autoloader implementation based on https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md
 
