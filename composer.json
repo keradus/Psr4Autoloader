@@ -5,8 +5,8 @@
     "type": "library",
     "homepage": "https://github.com/keradus/Psr4Autoloader",
     "autoload": {
-        "psr-0": {
-            "Keradus": "src/"
+        "psr-4": {
+            "Keradus\\": "src"
         }
     }
 }

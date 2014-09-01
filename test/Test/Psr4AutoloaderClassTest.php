@@ -1,5 +1,5 @@
 <?php
-namespace Keradus\Tests;
+namespace Keradus\Test;
 
 class MockPsr4Autoloader extends \Keradus\Psr4Autoloader
 {
