@@ -14,4 +14,4 @@ Changes to original:
 - little documentation changes
 - all variables now in camelCase
 - code cleanup for few useless statements
-- follow php-cs-fixer guidelines and contain configuration file
+- follow [https://github.com/fabpot/PHP-CS-Fixer](PHP CS Fixer) guidelines and contain configuration file
