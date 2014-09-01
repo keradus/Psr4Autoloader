@@ -1,7 +1,7 @@
 Psr4Autoloader
 ==============
 [![Package version](http://img.shields.io/packagist/v/keradus/Psr4Autoloader.svg)](https://packagist.org/packages/keradus/Psr4Autoloader)
-[![Build status](http://img.shields.io/travis/keradus/Psr4Autoloader/master.svg)](http://travis-ci.org/keradus/Psr4Autoloader)
+[![Build status](http://img.shields.io/travis/keradus/Psr4Autoloader/master.svg)](https://travis-ci.org/keradus/Psr4Autoloader)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/f2d52fb4-2716-4db9-b90e-eb72d50850dc/mini.png)](https://insight.sensiolabs.com/projects/f2d52fb4-2716-4db9-b90e-eb72d50850dc)
 
 PSR-4 Autoloader implementation based on [example from PHP-FIG](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md).
