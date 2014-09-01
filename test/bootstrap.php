@@ -1,3 +1,3 @@
 <?php
 
-require dirname(__FILE__) . "/../src/Keradus/Psr4Autoloader.php";
+require dirname(__FILE__) . "/../src/Psr4Autoloader.php";
