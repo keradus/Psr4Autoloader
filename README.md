@@ -1,6 +1,7 @@
 Psr4Autoloader
 ==============
-[![Package version](http://img.shields.io/packagist/v/keradus/Psr4Autoloader.svg)](https://packagist.org/packages/keradus/Psr4Autoloader)
+[![Latest Stable Version](https://poser.pugx.org/keradus/psr4autoloader/v/stable.svg)](https://packagist.org/packages/keradus/psr4autoloader)
+[![Latest Unstable Version](https://poser.pugx.org/keradus/psr4autoloader/v/unstable.svg)](https://packagist.org/packages/keradus/psr4autoloader)
 [![Build status](http://img.shields.io/travis/keradus/Psr4Autoloader/master.svg)](https://travis-ci.org/keradus/Psr4Autoloader)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/f2d52fb4-2716-4db9-b90e-eb72d50850dc/mini.png)](https://insight.sensiolabs.com/projects/f2d52fb4-2716-4db9-b90e-eb72d50850dc)
 
