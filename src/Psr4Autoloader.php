@@ -178,6 +178,7 @@ class Psr4Autoloader
     protected function requireFile($file)
     {
         if (is_file($file)) {
+            /** @noinspection PhpIncludeInspection */
             require $file;
 
             return true;
